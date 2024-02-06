@@ -1,0 +1,6 @@
+The mean is: 242.32
+The median is: 239.5
+The mode is: 393.0
+The variance is: 21099.917599999997
+The SD is: 145.25810683056557
+Execution time:0.001954793930053711 seconds

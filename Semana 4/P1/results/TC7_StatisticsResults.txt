@@ -1,0 +1,6 @@
+The mean is: 2.474673954997149e+20
+The median is: 2.4664097307429e+20
+The mode is: NA
+The variance is: 2.0910793147136484e+40
+The SD is: 1.4460564700984703e+20
+Execution time:0.021109580993652344 seconds
