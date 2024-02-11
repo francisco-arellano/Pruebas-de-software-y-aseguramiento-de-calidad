@@ -1,0 +1,18 @@
+Product: Sweet fresh stawberry - Qty: 221 - Price: 29.45$ - Subtot: 6508.45$
+Product: Green smoothie - Qty: 580 - Price: 17.68$ - Subtot: 10254.4$
+Product: Raw legums - Qty: 13 - Price: 17.11$ - Subtot: 222.43$
+Product: Hazelnut in black ceramic bowl - Qty: 7 - Price: 27.35$ - Subtot: 191.45000000000002$
+Product: Fresh stawberry - Qty: 221 - Price: 28.59$ - Subtot: 6318.39$
+Product: Homemade bread - Qty: 466 - Price: 17.48$ - Subtot: 8145.68$
+Product: Cuban sandwiche - Qty: 2 - Price: 18.5$ - Subtot: 37.0$
+Product: Smoothie with chia seeds - Qty: 61 - Price: 25.26$ - Subtot: 1540.8600000000001$
+Product: Sandwich with salad - Qty: 23 - Price: 22.48$ - Subtot: 517.04$
+Product: Corn - Qty: 1664 - Price: 13.55$ - Subtot: 22547.2$
+Product: Fresh blueberries - Qty: 3790 - Price: 21.01$ - Subtot: 79627.90000000001$
+Product: Rustic breakfast - Qty: 200 - Price: 21.32$ - Subtot: 4264.0$
+Product: Plums - Qty: 1231 - Price: 19.18$ - Subtot: 23610.579999999998$
+Product: French fries - Qty: 57 - Price: 18.32$ - Subtot: 1044.24$
+Product: Ground beef meat burger - Qty: 146 - Price: 11.73$ - Subtot: 1712.5800000000002$
+Product: Tomatoes - Qty: 1 - Price: 26.03$ - Subtot: 26.03$
+Total: 166568.22999999995$
+Execution time: 0.008997917175292969 seconds
