@@ -1,0 +1,17 @@
+[
+ {
+  "HOTEL_ID": 12,
+  "HOTEL_NAME": "Mayan",
+  "RESERVED_ROOMS": []
+ },
+ {
+  "HOTEL_ID": 1,
+  "HOTEL_NAME": "Four stories",
+  "RESERVED_ROOMS": []
+ },
+ {
+  "HOTEL_ID": 1,
+  "HOTEL_NAME": "Four stories",
+  "RESERVED_ROOMS": []
+ }
+]

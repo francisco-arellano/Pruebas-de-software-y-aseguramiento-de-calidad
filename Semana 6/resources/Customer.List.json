@@ -1,0 +1,14 @@
+[
+ {
+  "CUSTOMER_ID": 9876,
+  "CUSTOMER_NAME": "Alonso"
+ },
+ {
+  "CUSTOMER_ID": 5678,
+  "CUSTOMER_NAME": "Juan"
+ },
+ {
+  "CUSTOMER_ID": 5678,
+  "CUSTOMER_NAME": "Juan"
+ }
+]
